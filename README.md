@@ -13,3 +13,4 @@
 
 <h2>Salida del codigo</h2>
 <img width="531" height="759" alt="image" src="https://github.com/user-attachments/assets/d87a645e-f95a-4bbc-a1b2-f3ac333e44bd" />
+<p>En el pdf se encontraran las respuestas tomadas en clase junto con los requerimientos solictados en la tarea</p>
